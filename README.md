@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hey there, I'm Jonas! 👋
 
-<!--
-**jbg-a/jbg-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Grew up playing/modding videogames and now an aspiring Game Dev 🚀
+Currently studying Computer Science at the University of Applied Sciences Düsseldorf 🌟
+Passionate about self-improvement and a strong believer in Gamification 🌱
 
-Here are some ideas to get you started:
+- 🎮 Joining a Game Jam every month to expand my skills!
+    - Currently: BigJam (working with UE5, Blender)
+- 🧙‍♂️ Exploring the potential of Gamification in E-Learning!
+- 🤖 Excited about the possibilities of AI revolutionizing productivity and learning!
+    - Currently experimenting with Stable Diffusion 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always on the lookout for opportunities in Game Dev, E-Learning, Web Development, or Content Creation 🌈. 
+Let's create something memorable! 🤝
