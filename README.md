@@ -5,7 +5,7 @@ Currently studying Computer Science at the University of Applied Sciences Düsse
 Passionate about self-improvement and a strong believer in Gamification 🌱
 
 - 🎮 Joining a Game Jam every month to expand my skills!
-    - Currently: BigJam (working with UE5, Blender)
+    - Currently: Bigmode GameJam (working with UE5, Blender)
 - 🧙‍♂️ Exploring the potential of Gamification in E-Learning!
 - 🤖 Excited about the possibilities of AI revolutionizing productivity and learning!
     - Currently experimenting with Stable Diffusion 
