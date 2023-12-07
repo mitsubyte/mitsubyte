@@ -10,5 +10,5 @@ Passionate about self-improvement and a strong believer in Gamification 🌱
 - 🤖 Excited about the possibilities of AI revolutionizing productivity and learning!
     - Currently experimenting with Stable Diffusion 
 
-Always on the lookout for opportunities in Game Dev, E-Learning, Web Development, or Content Creation 🌈. 
+Always on the lookout for opportunities in Game Dev, E-Learning, Virtual Production, or Content Creation 🌈. 
 Let's create something memorable! 🤝
